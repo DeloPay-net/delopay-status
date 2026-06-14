@@ -1,0 +1,4 @@
+# Keep LF line endings in the repository for text files generated/consumed by CI.
+* text=auto eol=lf
+*.png binary
+*.svg text eol=lf

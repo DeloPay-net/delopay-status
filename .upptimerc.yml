@@ -1,0 +1,54 @@
+# DeloPay status page configuration — powered by Upptime (https://upptime.js.org)
+#
+# Endpoints are checked every 5 minutes by GitHub Actions. To add or change a
+# monitored service, edit the `sites` list below and commit — the workflows pick
+# up the change automatically. Docs: https://upptime.js.org/docs/configuration
+
+owner: DeloPay-net
+repo: delopay-status
+
+sites:
+  # ── Production (customer-facing) ──────────────────────────────────────────
+  - name: API
+    url: https://api.delopay.net/health
+    expectedStatusCodes:
+      - 200
+  - name: Merchant Dashboard
+    url: https://dashboard.delopay.net
+  - name: Checkout
+    url: https://checkout.delopay.net
+  - name: Website
+    url: https://delopay.net
+  - name: Documentation
+    url: https://delopay.net/docs/
+
+  # ── Sandbox (developer-facing) ────────────────────────────────────────────
+  - name: Sandbox API
+    url: https://sandbox-api.delopay.net/health
+    expectedStatusCodes:
+      - 200
+  - name: Sandbox Dashboard
+    url: https://sandbox.delopay.net
+  - name: Sandbox Admin
+    url: https://admin-sandbox.delopay.net
+
+status-website:
+  # Custom domain — point a CNAME record `status` → `delopay-net.github.io` in DNS.
+  cname: status.delopay.net
+  logoUrl: https://delopay.net/logo-symbol.svg
+  favicon: https://delopay.net/favicon.svg
+  name: DeloPay Status
+  introTitle: "DeloPay Status"
+  introMessage: >-
+    Real-time and historical availability of the DeloPay payment orchestration
+    platform — API, merchant dashboard, hosted checkout, and the developer
+    sandbox. This page updates automatically every 5 minutes.
+  navbar:
+    - title: Status
+      href: /
+    - title: Website
+      href: https://delopay.net
+    - title: Docs
+      href: https://delopay.net/docs/
+    - title: Support
+      href: https://delopay.net/contact/
