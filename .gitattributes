@@ -1,4 +1,9 @@
-# Keep LF line endings in the repository for text files generated/consumed by CI.
-* text=auto eol=lf
-*.png binary
-*.svg text eol=lf
+# Markdown
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+
+# JSON
+*.json linguist-detectable=true
+
+# YAML
+*.yml linguist-detectable=true
