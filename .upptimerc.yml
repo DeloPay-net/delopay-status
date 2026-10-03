@@ -33,8 +33,6 @@ sites:
     url: https://admin-sandbox.delopay.net
 
 status-website:
-  # Custom domain — point a CNAME record `status` → `delopay-net.github.io` in DNS.
-  cname: status.delopay.net
   logoUrl: https://delopay.net/logo-symbol.svg
   favicon: https://delopay.net/favicon.svg
   name: DeloPay Status
