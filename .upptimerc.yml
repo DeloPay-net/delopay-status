@@ -10,7 +10,7 @@ repo: delopay-status
 sites:
   # ── Production (customer-facing) ──────────────────────────────────────────
   - name: API
-    url: https://api.delopay.net/health
+    url: https://api.delopay.net/health/ready
     expectedStatusCodes:
       - 200
   - name: Merchant Dashboard
@@ -24,7 +24,7 @@ sites:
 
   # ── Sandbox (developer-facing) ────────────────────────────────────────────
   - name: Sandbox API
-    url: https://sandbox-api.delopay.net/health
+    url: https://sandbox-api.delopay.net/health/ready
     expectedStatusCodes:
       - 200
   - name: Sandbox Dashboard
