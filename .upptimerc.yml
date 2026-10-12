@@ -39,7 +39,7 @@ status-website:
   introTitle: "DeloPay Status"
   introMessage: >-
     Real-time and historical availability of the DeloPay payment orchestration
-    platform — API, merchant dashboard, hosted checkout, and the developer
+    platform: API, merchant dashboard, hosted checkout, and the developer
     sandbox. This page updates automatically every 5 minutes.
   navbar:
     - title: Status
