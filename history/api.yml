@@ -1,7 +1,7 @@
 url: https://api.delopay.net/health/ready
-status: up
-code: 200
-responseTime: 530
-lastUpdated: 2026-10-17T00:51:08.608Z
+status: down
+code: 522
+responseTime: 58736
+lastUpdated: 2026-10-17T13:22:52.443Z
 startTime: 2026-06-14T15:35:54.036Z
 generator: Upptime <https://github.com/upptime/upptime>
