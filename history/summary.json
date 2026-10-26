@@ -96,19 +96,19 @@
     "url": "https://sandbox-api.delopay.net/health/ready",
     "icon": "https://icons.duckduckgo.com/ip3/sandbox-api.delopay.net.ico",
     "slug": "sandbox-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 343,
-    "timeWeek": 346,
-    "timeMonth": 510,
-    "timeYear": 804,
+    "time": 800,
+    "timeDay": 337,
+    "timeWeek": 342,
+    "timeMonth": 504,
+    "timeYear": 800,
     "dailyMinutesDown": {
-      "2026-10-26": 0
+      "2026-10-26": 5
     }
   },
   {
