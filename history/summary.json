@@ -4,36 +4,40 @@
     "url": "https://api.delopay.net/health/ready",
     "icon": "https://icons.duckduckgo.com/ip3/api.delopay.net.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 978,
     "timeDay": 251,
     "timeWeek": 246,
     "timeMonth": 2107,
     "timeYear": 978,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-15": 8
+    }
   },
   {
     "name": "Merchant Dashboard",
     "url": "https://dashboard.delopay.net",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.delopay.net.ico",
     "slug": "merchant-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 222,
-    "timeWeek": 255,
-    "timeMonth": 920,
-    "timeYear": 882,
-    "dailyMinutesDown": {}
+    "time": 1195,
+    "timeDay": 25279,
+    "timeWeek": 6515,
+    "timeMonth": 2373,
+    "timeYear": 1195,
+    "dailyMinutesDown": {
+      "2026-11-15": 1
+    }
   },
   {
     "name": "Checkout",
