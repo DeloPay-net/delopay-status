@@ -6,18 +6,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 973,
-    "timeDay": 243,
-    "timeWeek": 244,
-    "timeMonth": 2052,
-    "timeYear": 973,
-    "dailyMinutesDown": {
-      "2026-11-15": 8
-    }
+    "time": 969,
+    "timeDay": 285,
+    "timeWeek": 261,
+    "timeMonth": 2039,
+    "timeYear": 969,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Merchant Dashboard",
@@ -26,18 +24,16 @@
     "slug": "merchant-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1189,
-    "timeDay": 16912,
-    "timeWeek": 5811,
-    "timeMonth": 2311,
-    "timeYear": 1189,
-    "dailyMinutesDown": {
-      "2026-11-15": 1
-    }
+    "time": 1183,
+    "timeDay": 16930,
+    "timeWeek": 5819,
+    "timeMonth": 2294,
+    "timeYear": 1183,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Checkout",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 223,
-    "timeWeek": 290,
-    "timeMonth": 924,
-    "timeYear": 778,
+    "time": 775,
+    "timeDay": 317,
+    "timeWeek": 306,
+    "timeMonth": 912,
+    "timeYear": 775,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1035,
-    "timeDay": 201,
-    "timeWeek": 307,
-    "timeMonth": 354,
-    "timeYear": 1035,
+    "time": 1030,
+    "timeDay": 310,
+    "timeWeek": 324,
+    "timeMonth": 336,
+    "timeYear": 1030,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 682,
-    "timeDay": 178,
-    "timeWeek": 189,
-    "timeMonth": 311,
-    "timeYear": 682,
+    "time": 679,
+    "timeDay": 224,
+    "timeWeek": 203,
+    "timeMonth": 292,
+    "timeYear": 679,
     "dailyMinutesDown": {
       "2026-08-19": 27
     }
@@ -106,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 740,
-    "timeDay": 201,
-    "timeWeek": 300,
-    "timeMonth": 362,
-    "timeYear": 740,
+    "time": 737,
+    "timeDay": 266,
+    "timeWeek": 306,
+    "timeMonth": 350,
+    "timeYear": 737,
     "dailyMinutesDown": {}
   },
   {
@@ -124,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 195,
-    "timeWeek": 397,
-    "timeMonth": 363,
-    "timeYear": 665,
+    "time": 663,
+    "timeDay": 267,
+    "timeWeek": 404,
+    "timeMonth": 343,
+    "timeYear": 663,
     "dailyMinutesDown": {}
   },
   {
@@ -142,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 682,
-    "timeDay": 213,
-    "timeWeek": 250,
-    "timeMonth": 490,
-    "timeYear": 682,
+    "time": 679,
+    "timeDay": 319,
+    "timeWeek": 265,
+    "timeMonth": 473,
+    "timeYear": 679,
     "dailyMinutesDown": {
       "2026-08-19": 25
     }
